@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **karthikprasads03@gmail.com/cs21b026@iittp.ac.in**
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikprasads&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasadkarthik3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasadkarthik3" height="30" width="40" /></a>
