@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Prasad S</h1>
 <h3 align="center">I am a student at IIT Tirupati</h3>
-<img img align="right" width="500" height="500" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img img align="right" width="200" height="200" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 - 🔭 I’m currently interested in **Nothing**
 
